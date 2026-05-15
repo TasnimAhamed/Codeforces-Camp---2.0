@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Unignore directories
+!*/
+
+# Unignore specific file extensions
+!*.cpp
+
+# Unignore the gitignore file itself
+!.gitignore
+
+# Unignore markdown files like README
+!*.md
