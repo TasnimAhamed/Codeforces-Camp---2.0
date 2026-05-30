@@ -19,9 +19,19 @@
 | **[Day 2](./Day%202)** | ✅ | 50A, 112, 236A, 263A, 339A |
 | **[Day 3](./Day%203)** | ✅ | 266A, 281A, 546A, 617A, 791A |
 
+
 ---
 
+## 🏆 Long Contests
 
-<div align="center">
-  <i>Happy Coding! 💻🚀</i>
-</div>
+| Contest | Link | Password | Solved Problems |
+| :---: | :---: | :---: | :--- |
+| **[Long Contest 1](./Long%20Contest%20-%201)** | 🔗 [VJudge](https://vjudge.net/contest/819060) | `cf_long_contest_1` | A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z, AA, AB, AC, AD, AE |
+
+---
+
+### 🚀 [HappyKoding](https://www.youtube.com/@happykoding07)
+*Let's learn, build, and grow together!*
+
+### 🤝 Let's Connect
+[Codeforces Profile](https://codeforces.com/profile/tasnim07) | [LinkedIn Profile](https://www.linkedin.com/in/tasnimahmed20/) | [Facebook Profile](https://www.facebook.com/tasnim.ahmed.20)
